@@ -1,6 +1,8 @@
 # Github-comment-
 This is my github comments repositeries
-
+<p align="center">
+  <img src="https://github.com/Nikolatesla2001/LGMVIP-Data-Science/blob/main/cropped-growmore-removebg-preview.png" width="350" alt="accessibility text">
+</p>
 GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
 GitHub.com
